@@ -87,26 +87,26 @@
 // let Tio = new mahasiswa('Tio Ramadhan', 500);
 
 // VERSI CLASS
-class Mahasiswa{
-    constructor(nama, energi){
-        this.nama = nama
-        this.energi = energi
-    }
+// class Mahasiswa{
+//     constructor(nama, energi){
+//         this.nama = nama
+//         this.energi = energi
+//     }
 
-    makan(porsi){
-        this.energi += porsi;
-        return `halo ${this.nama}, Selamat makan`; 
-    }
+//     makan(porsi){
+//         this.energi += porsi;
+//         return `halo ${this.nama}, Selamat makan`; 
+//     }
 
-    tidur(jam){
-        this.energi += jam;
-        return `halo ${this.nama}, Selamat tidur`; 
-    }
-    main(jam){
-        this.energi -= jam;
-        return `halo ${this.nama}, Selamat main`; 
-    }
-}
+//     tidur(jam){
+//         this.energi += jam;
+//         return `halo ${this.nama}, Selamat tidur`; 
+//     }
+//     main(jam){
+//         this.energi -= jam;
+//         return `halo ${this.nama}, Selamat main`; 
+//     }
+// }
 
-let tio = new Mahasiswa("Tio Ramadhan", 50);
+// let tio = new Mahasiswa("Tio Ramadhan", 50);
 
