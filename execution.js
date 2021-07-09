@@ -50,9 +50,16 @@ let a = (function add(){
 })();
 
 
-console.log(a());
-console.log(a());
-console.log(a());
-console.log(a());
-console.log(a());
-console.log(a());
+// console.log(a());
+// console.log(a());
+// console.log(a());
+// console.log(a());
+// console.log(a());
+// console.log(a());
+
+
+// LET & CONST
+
+// console.log(i)
+// var i = 0;
+
