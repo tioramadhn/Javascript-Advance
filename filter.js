@@ -52,4 +52,14 @@ jmlVid.innerHTML = `${sumvideos} Video`
 durVid.innerHTML = `${jam} Jam, ${menit} Menit, ${detik} Detik`;
 // console.log(videos)
 
+let el = 
+`<div class="btn">
+    <ul>
+        <li>Ayam</li>
+        <li>Ikan</li>
+        <li>Daging</li>
+        <li>Sapi</li>
+        <li>Telur</li>
+    </ul>
+</div>`;
 
